@@ -1,1 +1,1 @@
-//KOMENT
+//KOMENT na KOMent
